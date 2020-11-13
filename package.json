@@ -1,0 +1,23 @@
+{
+  "name": "elel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Timothy James <elel@tjames.com>",
+  "license": "MIT",
+  "description": "Elegant (DOM) Elements",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enthal/elel.git"
+  },
+  "keywords": [
+    "dom",
+    "html"
+  ],
+  "bugs": {
+    "url": "https://github.com/enthal/elel/issues"
+  },
+  "homepage": "https://github.com/enthal/elel#readme"
+}
